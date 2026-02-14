@@ -11,9 +11,6 @@ h1 {
   color: #007BFF;
 }
 
-p {
-  color: white;
-}
 </style>
 </head>
 
